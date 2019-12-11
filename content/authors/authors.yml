@@ -1,7 +1,7 @@
-- name: Alex Hsi
+- name: Dennis Brotzky
   bio: |
     Entrepreneur.
-  avatar: ./avatars/alex-hsi.jpg
+  avatar: ./avatars/dennis-brotzky.jpg
   featured: true
   social:
     - name: github
