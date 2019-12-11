@@ -1,35 +1,31 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    title: `Alex Hsi`,
+    name: `Alex Hsi`,
+    siteUrl: `http://alexhsi.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Alex Hsi.`,
+      maxWidth: 652
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/alexhsi`
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/alexhhsi`
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/alexhsi`
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
-    ],
+        url: `https://www.linkedin.com/in/alexhsi/`
+      }
+    ]
   },
   plugins: [
     {
@@ -40,10 +36,10 @@ module.exports = {
         basePath: "/",
         authorsPage: true,
         sources: {
-          local: true,
+          local: true
           // contentful: true,
-        },
-      },
+        }
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -54,8 +50,8 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
-      },
-    },
-  ],
+        icon: `src/assets/favicon.png`
+      }
+    }
+  ]
 };
