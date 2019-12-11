@@ -1,8 +1,13 @@
+- name: Alex Hsi
+  bio: |
+    Alex Hsi is an entrepreneur, investor, and explorer.
+  avatar: ./avatars/alex-hsi.jpg
+  featured: true
+
 - name: Dennis Brotzky
   bio: |
     Entrepreneur.
   avatar: ./avatars/dennis-brotzky.jpg
-  featured: true
   social:
     - name: github
       url: https://github.com
