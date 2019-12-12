@@ -65,7 +65,7 @@ const Logo: Icon = ({ fill = "white" }) => {
       </svg>
 
       <svg
-        height="40"
+        height="60"
         viewBox="0 0 600 400"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -133,7 +133,7 @@ const LogoContainer = styled.div`
     .Logo__Desktop {
       display: none;
     }
-    
+
     .Logo__Mobile{
       display: block;
     }
