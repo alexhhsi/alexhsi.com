@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: `Alex Hsi | Chop Wood, Carry Water`,
     name: `Alex Hsi`,
-    siteUrl: `http://alexhsi.com`,
+    siteUrl: `https://alexhsi.com`,
     description: `Alex Hsi is an entrepreneur, investor, and explorer based in Santa Monica, CA. I enjoy discovering new things.`,
     hero: {
-      heading: `:: Chop Wood, Carry Water ::`,
+      heading: `Chop Wood, Carry Water`,
       maxWidth: 652
     },
     social: [
