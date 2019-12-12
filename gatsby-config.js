@@ -14,10 +14,6 @@ module.exports = {
         url: `https://twitter.com/alexhsi`
       },
       {
-        name: `github`,
-        url: `https://github.com/alexhhsi`
-      },
-      {
         name: `instagram`,
         url: `https://instagram.com/alexhsi`
       },
