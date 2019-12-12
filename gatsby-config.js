@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `http://alexhsi.com`,
     description: `Alex Hsi is an entrepreneur, investor, and explorer based in Santa Monica, CA. I enjoy discovering new things.`,
     hero: {
-      heading: `[ ] Of My Life`,
+      heading: `:: Chop Wood, Carry Water ::`,
       maxWidth: 652
     },
     social: [
