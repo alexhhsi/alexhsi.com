@@ -2,7 +2,7 @@
   bio: |
     Alex Hsi is an entrepreneur, investor, and explorer. Currently an EIR at Mucker Capital in Santa Monica, CA.
     Always trying to learn new things.
-  avatar: ./avatars/alex-hsi.jpg
+  avatar: ./avatars/dennis-brotzky.jpg
   featured: true
   social:
     - name: twitter
@@ -11,7 +11,3 @@
       url: https://instagram.com/alexhsi
     - name: linkedin
       url: https://linkedin.com/in/alexhsi
-
-- name: Dennis Brotzky
-  bio: |
-    .
