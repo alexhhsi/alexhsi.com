@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Alex Hsi | Entrepreneur. Investor. Explorer.`,
+    title: `Alex Hsi`,
     name: `Alex Hsi`,
     siteUrl: `http://alexhsi.com`,
-    description: `Alex Hsi is an entrepreneur, investor, and explorer based in Los Angeles, CA. I enjoy discovering new things.`,
+    description: `Alex Hsi is an entrepreneur, investor, and explorer based in Santa Monica, CA. I enjoy discovering new things.`,
     hero: {
-      heading: `Alex Hsi.`,
+      heading: `[ ] Of My Life`,
       maxWidth: 652
     },
     social: [
