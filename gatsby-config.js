@@ -5,7 +5,7 @@ module.exports = {
     title: `Alex Hsi | Chop Wood, Carry Water`,
     name: `Alex Hsi`,
     siteUrl: `https://alexhsi.com`,
-    description: `Alex Hsi is an entrepreneur, investor, and explorer based in Santa Monica, CA. I enjoy discovering new things.`,
+    description: `Alex Hsi is an entrepreneur, investor, and explorer based in Santa Monica, CA. Always trying to learn new things.`,
     hero: {
       heading: `Chop Wood, Carry Water`,
       maxWidth: 652
@@ -41,7 +41,7 @@ module.exports = {
         basePath: "/",
         authorsPage: true,
         sources: {
-          // local: true
+          local: true,
           contentful: true
         }
       }
